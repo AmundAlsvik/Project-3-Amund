@@ -4,6 +4,12 @@ Project authors: Amund Solum Alsvik, Jørgen Vestly & Kristoffer DH Stalker
 
 This repository contains all source code and figures for our research, using PINNs for solving the 1D heat diffusion equation. 
 To run the code, run the Jupyter notebooks, and the classes.py file.
+
+<p align="center">
+  <img src="Figures/heat_rod.gif" width="600">
+</p>
+
+
 ## Installation
 
 All required Python packages are listed in `requirements.txt`.  
